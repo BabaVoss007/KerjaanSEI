@@ -12,3 +12,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 12e8d916af4fca6cf4283cff29d428623158073c
+*.pptx filter=lfs diff=lfs merge=lfs -text
