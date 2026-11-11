@@ -9,6 +9,18 @@ Repository **private** untuk menyimpan dan mengelola file CAD beserta seluruh la
 | `00_Projects` | Semua File Projects &  |
 | `02_Template` | Semua Template 2D & 3D |
 
+### Subfolder Projects
+
+Untuk menjaga kerapian, setiap project di dalam `00_Projects` disarankan menggunakan standar subfolder berikut:
+
+| Subfolder | Isi |
+|---|---|
+| `01_Xref` | Gambar referensi dasar, peta kontur, atau *base plan* yang di-Xref ke file utama. |
+| `02_DED` | *Detailed Engineering Design* (file AutoCAD `.dwg` utama). |
+| `03_Datasheet` | Dokumen spesifikasi teknis, brosur alat, dan manual operasional (PDF/PPTX). |
+| `04_3D_Models` | Pemodelan 3D dan file *render* (SketchUp `.skp`, `.skb`, dan `.jpg`). |
+| `05_Administrasi` | File pengantar, RAB, RFP, laporan, dan dokumen pendukung lainnya. |
+
 ## Aturan penamaan file
 
 Gunakan pola:
