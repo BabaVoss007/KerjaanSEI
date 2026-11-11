@@ -7,7 +7,7 @@ Repository **private** untuk menyimpan dan mengelola file CAD beserta seluruh la
 | Folder | Isi |
 |---|---|
 | `00_Projects` | Semua File Projects &  |
-| `02_Template` | File pertukaran CAD (`.dxf`) |
+| `02_Template` | Semua Template 2D & 3D |
 
 ## Aturan penamaan file
 
