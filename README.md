@@ -19,7 +19,8 @@ Untuk menjaga kerapian, setiap project di dalam `00_Projects` disarankan menggun
 | `02_DED` | *Detailed Engineering Design* (file AutoCAD `.dwg` utama). |
 | `03_Datasheet` | Dokumen spesifikasi teknis, brosur alat, dan manual operasional (PDF/PPTX). |
 | `04_3D_Models` | Pemodelan 3D dan file *render* (SketchUp `.skp`, `.skb`, dan `.jpg`). |
-| `05_Administrasi` | File pengantar, RAB, RFP, laporan, dan dokumen pendukung lainnya. |
+| `05_PDF` | PDF Hasil dari DeD. |
+| `06_ETC` | Dokumentasi drone dll |
 
 ## Aturan penamaan file
 
