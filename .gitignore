@@ -2,3 +2,7 @@
 *.tmp
 *.err
 ~*
+*.bak
+*.tmp
+*.err
+~*
