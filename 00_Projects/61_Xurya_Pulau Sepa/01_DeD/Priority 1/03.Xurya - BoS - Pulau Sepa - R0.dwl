@@ -1,0 +1,3 @@
+DELL
+DESKTOP-6MSUIS3 
+Selasa, 03 November 2026  13.24.12
